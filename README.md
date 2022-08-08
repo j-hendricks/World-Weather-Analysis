@@ -14,9 +14,9 @@ Lastly, a program was made to test the power of the Google Directions API. Four 
 
 The following are sample images of the program.
 
-![WeatherPy_travel_map](WeatherPy_travel_map.png)
+![WeatherPy_travel_map](Vacation_Itinerary/WeatherPy_travel_map.png)
 
-![WeatherPy_travel_map_markers](WeatherPy_travel_map_markers.png)
+![WeatherPy_travel_map_markers](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 ## Conclusion
 
